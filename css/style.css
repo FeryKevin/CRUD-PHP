@@ -1,0 +1,49 @@
+#formulaire
+{
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #008;
+}
+
+.h2Form
+{
+    color: #fff;
+    font-weight: bold;
+    text-align: center;
+}
+
+.form-control
+{
+    height: 50px;
+    margin-top: 5px;
+    margin-bottom: 15px;
+}
+
+.labelFormulaire
+{
+    font-size: 18px;
+    color: #fff;
+    font-weight: normal;
+}
+
+.buttonf
+{
+    text-align: center;
+    text-transform: uppercase;
+    color: #fff;
+    background: #008;
+    padding: 15px;
+    border-radius: 5px;
+    width: 70%;
+    border: 1px solid #fff;
+    transition: all 0.3s ease-in 0s;
+    margin: 40px auto 0px;
+    display: block;
+}
+
+.buttonf:hover
+{
+    background: #fff;
+    color: #008;
+    text-decoration: none;
+}
